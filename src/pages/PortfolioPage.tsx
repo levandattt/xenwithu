@@ -1,9 +1,8 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 const PortfolioPage: React.FC = () => {
   return (
-    <div>
+    <div className="text-3xl font-bold underline">
       home page
     </div>
   );

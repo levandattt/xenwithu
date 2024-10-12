@@ -1,5 +1,4 @@
 import { RouterProvider, createBrowserRouter, RouteObject } from "react-router-dom";
-import { Outlet } from "react-router-dom";
 import Home from "../pages/PortfolioPage";
 
 const Routes: React.FC = () => {
