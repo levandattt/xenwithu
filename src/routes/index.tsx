@@ -1,12 +1,12 @@
 import { RouterProvider, createBrowserRouter, RouteObject } from "react-router-dom";
-import Home from "../pages/PortfolioPage";
+import PortfolioPage from "../pages/PortfolioPage/";
 
 const Routes: React.FC = () => {
 
   const publicRoutes: RouteObject[] = [
     {
       path: "/",
-      element: <Home/>,
+      element: <PortfolioPage/>,
     },
   ];
 
