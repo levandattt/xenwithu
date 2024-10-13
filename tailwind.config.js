@@ -9,6 +9,7 @@ module.exports = {
       'light-primary-bg-alpha': 'rgba(236, 240, 243, 0.66)',
       'light-primary-bg': '#ECF0F3',
       'light-primary-text': '#3C3E41',
+      'light-primary-reverse-text': '#ECF0F3',
       'light-line-bg': '#dce1e4',
     },
     screens: {
