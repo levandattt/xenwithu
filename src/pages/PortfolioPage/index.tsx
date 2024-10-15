@@ -4,7 +4,6 @@ import { MdOutlinePhoneInTalk } from "react-icons/md";
 import { LuMail } from "react-icons/lu";
 import { GrLocation } from "react-icons/gr";
 import SectionHeader from "./components/SectionHeader";
-import BrandLogo from "./components/BrandLogo";
 import { TbBrandFacebook } from "react-icons/tb";
 import { TbBrandInstagram } from "react-icons/tb";
 import { TbBrandLinkedin } from "react-icons/tb";

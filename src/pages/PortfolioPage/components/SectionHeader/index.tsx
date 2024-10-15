@@ -1,5 +1,4 @@
 import React from 'react';
-import BrandLogo from '../BrandLogo';
 interface SectionProps {
     title: string;
     subTitle?: string;
